@@ -16,6 +16,19 @@ Fixed-scope engineering for Web3 teams. Share your repository or API details, th
 
 Payment options offered: USDC on Base and USDT on TRC20. Confirm the exact scope, network, and payment instructions before sending funds.
 
+
+## Free developer diagnostics
+
+Try the tools before buying anything:
+
+- **RPC Doctor** — bounded health check for a public EVM JSON-RPC endpoint.
+- **API Health Check** — reachability, HTTP status, latency, and safe response metadata.
+- **Webhook Payload Tester** — validate the structure of a safe JSON sample without executing code.
+
+**Live tools:** https://naif-store-62-83-19-162.sslip.io/tools?utm_source=github_profile
+
+Each diagnostic can optionally generate a **sanitized share card**. Raw URLs, payloads, credentials, tokens, and secrets are excluded from public cards. If a fix is needed, the result links to the smallest relevant NAIF service.
+
 ## Current ecosystem work
 
 - Testing AI-agent and blockchain tooling.
