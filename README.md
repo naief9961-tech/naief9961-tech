@@ -4,11 +4,17 @@ Hands-on software testing, Web3 tooling, automation, and reproducible technical 
 
 ## NAIF Web3 services
 
-NAIF takes scoped development requests for Web3 integrations, AI agents, backend systems, APIs, x402 payment flows, wallet integrations, and QA. Share the goal, existing stack, acceptance criteria, and timeline to get a tailored scope and quote.
+Fixed-scope engineering for Web3 teams. Share your repository or API details, the problem, expected result, and timeline; we confirm scope before work begins.
 
-**Explore the service catalog and send an inquiry:** [NAIF Web3 Store](https://naif-store-62-83-19-162.sslip.io/web3)
+| Service | Starting price | Typical scope |
+| --- | ---: | --- |
+| **Web3 Backend Rescue** | **149 USDC** | Diagnose and fix one agreed backend or API failure, with a reproducible verification note. |
+| **Web3 QA Sprint** | **99 USDC** | Test one agreed Web3 user flow, document reproducible findings, and deliver a focused QA report. |
+| **AI Agent / MCP Engineering** | **249 USDC** | Build or repair one scoped agent workflow, MCP integration, or tool endpoint with setup notes. |
 
-Payment options offered: USDC on Base and USDT on TRC20. Confirm the exact network and payment instructions in the agreed project scope before sending funds.
+**View the catalog and send a project brief:** [NAIF Web3 Store](https://naif-store-62-83-19-162.sslip.io/web3)
+
+Payment options offered: USDC on Base and USDT on TRC20. Confirm the exact scope, network, and payment instructions before sending funds.
 
 ## Current ecosystem work
 
