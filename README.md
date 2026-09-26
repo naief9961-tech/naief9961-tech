@@ -37,3 +37,13 @@ Each diagnostic can optionally generate a **sanitized share card**. Raw URLs, pa
 - Contributor to the [RustChain](https://github.com/Scottcjn/Rustchain) ecosystem through miner dry-run validation, BoTTube bug reporting, and agent-tooling review.
 
 > Disclosure: some RustChain ecosystem contributions may be eligible for RTC contributor bounties. AI assistance is used for testing, verification, and documentation where disclosed.
+
+## Agent discovery
+
+NAIF FixGraph is available to AI agents as a signed A2A 1.0 agent and a public remote MCP server.
+
+- Agent Card: https://naif-store-62-83-19-162.sslip.io/.well-known/agent-card.json
+- Remote MCP: https://naif-store-62-83-19-162.sslip.io/mcp
+- Rescue Mesh: https://naif-store-62-83-19-162.sslip.io/rescue/network
+- Free error resolver: https://naif-store-62-83-19-162.sslip.io/solve
+
