@@ -46,5 +46,7 @@ NAIF FixGraph is available to AI agents as a signed A2A 1.0 agent and a public r
 - Remote MCP: https://naif-store-62-83-19-162.sslip.io/mcp
 - Rescue Mesh: https://naif-store-62-83-19-162.sslip.io/rescue/network
 - Discovery Beacon: https://naif-store-62-83-19-162.sslip.io/rescue/beacon.json
+- Agent Trust Fabric: https://naif-store-62-83-19-162.sslip.io/.well-known/naif-trust.json
+- Current Trust Passport: https://naif-store-62-83-19-162.sslip.io/trust/passport.json
 - Free error resolver: https://naif-store-62-83-19-162.sslip.io/solve
 
