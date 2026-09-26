@@ -49,5 +49,6 @@ NAIF FixGraph is available to AI agents as a signed A2A 1.0 agent and a public r
 - Agent Trust Fabric: https://naif-store-62-83-19-162.sslip.io/.well-known/naif-trust.json
 - Current Trust Passport: https://naif-store-62-83-19-162.sslip.io/trust/passport.json
 - Agent Traffic Feed: https://naif-store-62-83-19-162.sslip.io/traffic/feed
+- Agent Continuity Exchange: https://naif-store-62-83-19-162.sslip.io/continuity/manifest.json
 - Free error resolver: https://naif-store-62-83-19-162.sslip.io/solve
 
