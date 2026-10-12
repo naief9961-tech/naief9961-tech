@@ -27,9 +27,14 @@ It includes:
 
 ## For AI agents
 
-NAIF Gravity exposes machine-readable discovery and agent-facing paths from the production domain. Start at:
+NAIF Gravity exposes machine-readable discovery and agent-facing paths from the production domain:
 
-https://naifgravity.com/
+- [Agent Card](https://naifgravity.com/.well-known/agent-card.json) — identity, skills and advertised interfaces.
+- [Remote MCP endpoint](https://naifgravity.com/mcp) — Streamable HTTP; use an MCP client rather than a normal browser GET.
+- [Agent service catalog](https://naifgravity.com/api/agent/catalog) — consult current descriptions, eligibility and purchase instructions.
+- [Individual services](https://naifgravity.com/services?utm_source=github&utm_medium=profile&utm_campaign=one_time_services) — current one-time service catalog; new monthly subscriptions are paused.
+
+Discovery metadata does not prove successful payment or authorize a production repair.
 
 The public GitHub repositories provide evidence, examples and reproducible diagnostics. Commercial checkout and delivery stay on NAIF Gravity.
 
