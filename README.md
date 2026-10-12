@@ -38,6 +38,13 @@ Discovery metadata does not prove successful payment or authorize a production r
 
 The public GitHub repositories provide evidence, examples and reproducible diagnostics. Commercial checkout and delivery stay on NAIF Gravity.
 
+
+## Purchase a bounded JSON check
+
+[Buy JSON Validity Check](https://naifgravity.com/service/json-validity-check) or use [x402scan → Try with AgentCash](https://www.x402scan.com/server/a95c7242-15af-44a7-a85d-2b2ffa251755). The paid x402 v2 API costs **1 USDC on Base mainnet** per bounded check; [OpenAPI](https://naifgravity.com/openapi.json) publishes its request and payment metadata. See the [purchase instructions](https://github.com/naief9961-tech/ai-growth-engine#buy-the-json-check-with-usdc-on-base) for the 4096-byte limit and payment flow.
+
+VPN/proxy use is no longer a standalone blocker. Regional eligibility remains: Saudi-classified connections receive Apple Pay, while eligible international connections can use Base USDC. Follow the live checkout; GitHub itself does not process the purchase. Other services have their own prices and delivery scopes.
+
 ## Current engineering work
 
 - AI-agent and MCP interoperability.
