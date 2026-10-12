@@ -39,6 +39,12 @@ Discovery metadata does not prove successful payment or authorize a production r
 The public GitHub repositories provide evidence, examples and reproducible diagnostics. Commercial checkout and delivery stay on NAIF Gravity.
 
 
+## October 2026 launch prices — automatic, no coupon
+
+**14 bounded technical services have a time-limited launch discount**, applied to new quotes only until **October 26, 2026 at 05:40 UTC or the first 10 verified purchases of eligible launch products**, whichever comes first. For example: NAIF API Fixer **$89 → $79**, Data Factory **$129 → $115**, Automation Factory **$199 → $179**, AI Agent Engineering Sprint **$249 → $219**. Browse the [full current offer table](https://github.com/naief9961-tech/ai-growth-engine#launch-offer--one-time-technical-services-october-1226-2026). An agent uses the **[live service catalog](https://naifgravity.com/api/agent/catalog)** and accepted quote as its authoritative current price; it does not need a coupon, and existing quotes are not repriced.
+
+**Machine-paid instant x402 APIs** are separately discoverable via the [x402 resource manifest](https://naifgravity.com/.well-known/x402) and [OpenAPI](https://naifgravity.com/openapi.json). Four current full-scope products cost **$1/$2/$3/$5 USDC per call on Base**; proposed lower-price Lite tools are **not live yet**. Engineering and repair services may accept agent-initiated checkout but typically require a verified paid Work handoff before delivery. Never infer successful payment from a 402 challenge or a listing.
+
 ## Purchase a bounded JSON check
 
 [Buy JSON Validity Check](https://naifgravity.com/service/json-validity-check) or use [x402scan → Try with AgentCash](https://www.x402scan.com/server/a95c7242-15af-44a7-a85d-2b2ffa251755). The paid x402 v2 API costs **1 USDC on Base mainnet** per bounded check; [OpenAPI](https://naifgravity.com/openapi.json) publishes its request and payment metadata. See the [purchase instructions](https://github.com/naief9961-tech/ai-growth-engine#buy-the-json-check-with-usdc-on-base) for the 4096-byte limit and payment flow.
