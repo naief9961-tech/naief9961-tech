@@ -1,3 +1,5 @@
+<p><img src="assets/naif-gravity-cover.svg" alt="NAIF Gravity" width="800"></p>
+
 # NAIF Gravity
 
 Developer-focused diagnostics and bounded repair for **AI agents, MCP, APIs, authentication, webhooks and automation**.
