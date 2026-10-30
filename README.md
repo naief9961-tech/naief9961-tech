@@ -2,6 +2,16 @@
 
 # NAIF Gravity
 
+<!-- naif-storefront-refresh-20261030 -->
+## New look at NAIF Gravity — 30 October 2026
+
+The NAIF Gravity storefront has a refreshed visual identity: midnight navy, copper accents and a glass-inspired homepage experience, with Arabic and English controls. Explore the updated [storefront](https://naifgravity.com) and [service catalog](https://naifgravity.com/services).
+
+**مظهر جديد لمتجر NAIF Gravity:** هوية كحلية ونحاسية وتجربة زجاجية في الصفحة الرئيسية، مع خيارات العربية والإنجليزية. [شاهد المتجر](https://naifgravity.com).
+
+This announcement covers the storefront design. Service scope, availability and current prices are stated on the relevant live service pages; the redesign does not establish new product readiness.
+<!-- /naif-storefront-refresh-20261030 -->
+
 Developer-focused diagnostics and bounded repair for **AI agents, MCP, APIs, authentication, webhooks and automation**.
 
 **Live:** https://naifgravity.com/?utm_source=github&utm_medium=profile&utm_campaign=github_funnel
@@ -41,9 +51,9 @@ Discovery metadata does not prove successful payment or authorize a production r
 The public GitHub repositories provide evidence, examples and reproducible diagnostics. Commercial checkout and delivery stay on NAIF Gravity.
 
 
-## October 2026 launch prices — automatic, no coupon
+## Current service prices
 
-**14 bounded technical services have a time-limited launch discount**, applied to new quotes only until **October 26, 2026 at 05:40 UTC or the first 10 verified purchases of eligible launch products**, whichever comes first. For example: NAIF API Fixer **$89 → $79**, Data Factory **$129 → $115**, Automation Factory **$199 → $179**, AI Agent Engineering Sprint **$249 → $219**. Browse the [full current offer table](https://github.com/naief9961-tech/ai-growth-engine#launch-offer--one-time-technical-services-october-1226-2026). An agent uses the **[live service catalog](https://naifgravity.com/api/agent/catalog)** and accepted quote as its authoritative current price; it does not need a coupon, and existing quotes are not repriced.
+The October launch promotion ended no later than **26 October 2026 at 05:40 UTC**. Its advertised discounts are no longer a current offer. See the [live service catalog](https://naifgravity.com/services) and the accepted quote for current scope, eligibility and pricing. Existing accepted quotes retain their agreed terms.
 
 **Machine-paid instant x402 APIs** are separately discoverable via the [x402 resource manifest](https://naifgravity.com/.well-known/x402) and [OpenAPI](https://naifgravity.com/openapi.json). Four current full-scope products cost **$1/$2/$3/$5 USDC per call on Base**; proposed lower-price Lite tools are **not live yet**. Engineering and repair services may accept agent-initiated checkout but typically require a verified paid Work handoff before delivery. Never infer successful payment from a 402 challenge or a listing.
 
