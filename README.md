@@ -2,7 +2,7 @@
 
 # NAIF Gravity
 
-Free developer tools and reproducible diagnostics for **MCP, APIs, authentication and webhooks**.
+Free developer tools and reproducible diagnostics for **Model Context Protocol (MCP), APIs, authentication and webhooks**.
 
 ## Start with MCP Doctor
 
@@ -13,6 +13,12 @@ Free developer tools and reproducible diagnostics for **MCP, APIs, authenticatio
 - Offline report mode stays local. Optional probing contacts only an authorized endpoint and checks `initialize` / `tools/list`; it does not execute server tools or repair a service.
 
 **بالعربية:** أداة مجانية لتشخيص اتصال MCP وإعداد تقرير محلي بالأدلة. [جرّب الأداة](https://github.com/naief9961-tech/naif-gravity-mcp-diagnostics) أو اقرأ [أدلة التشخيص العربية](https://naifgravity.com/ar/discover).
+
+### More ways to use MCP Doctor
+
+- [Local fault lab](https://github.com/naief9961-tech/naif-gravity-mcp-diagnostics#fault-lab-and-issue-drafts): reproduce discovery failures with synthetic fixtures.
+- [Offline GitHub Action](https://github.com/naief9961-tech/naif-gravity-mcp-diagnostics/blob/main/docs/ERROR-PASSPORT.md): turn sanitized reports into CI evidence without automatic remote probing.
+- [Before/after comparison](https://github.com/naief9961-tech/naif-gravity-mcp-diagnostics#compare-discovery-before-and-after-an-update): compare bounded discovery reports after an integration change.
 
 ## A documented diagnostic contribution
 
