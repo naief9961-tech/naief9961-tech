@@ -4,6 +4,20 @@
 
 Free developer tools and reproducible diagnostics for **Model Context Protocol (MCP), APIs, authentication and webhooks**.
 
+## Featured NAIF Gravity products
+
+| Product | First value | Explore |
+| --- | --- | --- |
+| **[MCP Doctor](https://github.com/naief9961-tech/naif-gravity-mcp-diagnostics)** — free, MIT | MCP Streamable HTTP discovery diagnostics and local Error Passport evidence | [Install from PyPI/npm](https://github.com/naief9961-tech/naif-gravity-mcp-diagnostics#install-from-pypi-or-npm) |
+| **[NAIF JSON Rescue](https://github.com/naief9961-tech/ai-growth-engine/tree/main/skills/naif-json-rescue)** — free Skill | Local JSON syntax checks without uploading the sample | [Skill instructions](https://github.com/naief9961-tech/ai-growth-engine/blob/main/skills/naif-json-rescue/SKILL.md) |
+| **[Free JSON/API/CSV previews](https://naifgravity.com/micro-v2)** | Try a bounded sample without a charge | [Run a preview](https://naifgravity.com/micro-v2) |
+| **[Focused technical services](https://naifgravity.com/services?utm_source=github&utm_medium=profile&utm_campaign=product_discovery)** — optional | Separately scoped JSON, API, webhook, Docker and repair checks | [Browse live products](https://naifgravity.com/services?utm_source=github&utm_medium=profile&utm_campaign=product_discovery) |
+
+**[View all products and choose by problem →](https://github.com/naief9961-tech/ai-growth-engine/blob/main/PRODUCTS.md)** · [Free troubleshooting guides](https://naifgravity.com/discover) · [الأدلة بالعربية](https://naifgravity.com/ar/discover)
+
+**Free-first policy:** preview and local checks are not paid repairs. Micro V2 preview pages do not currently offer a separate paid V2 report checkout. Live service pages define their own scope and price.
+
+
 ## Start with MCP Doctor
 
 **[NAIF Gravity MCP Doctor](https://github.com/naief9961-tech/naif-gravity-mcp-diagnostics)** checks MCP Streamable HTTP discovery and turns sanitized reports into local Error Passports with evidence and free next steps.
